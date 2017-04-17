@@ -3,8 +3,19 @@
 }
 .rosa{
   background-color: rgb( 255, 1, 62 );
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .alto{
   height: 60px;
+}
+
+div{
+  margin-left: 42%;
+  padding: 4px;
+}
+
+.ancho{
+  width: 160px;
 }
