@@ -3,19 +3,24 @@
 }
 .rosa{
   background-color: rgb( 255, 1, 62 );
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 20px;
 }
 
 .alto{
-  height: 60px;
+  height: 30px;
 }
 
 div{
-  margin-left: 42%;
+  display: inline-block;
+  /*margin-left: 42%;*/
   padding: 4px;
 }
 
 .ancho{
   width: 160px;
+}
+.izquierda{
+  margin-left: 32%;
 }
